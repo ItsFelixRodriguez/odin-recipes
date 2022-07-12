@@ -1,0 +1,25 @@
+
+p {
+    font-size: 20px;
+}
+.header { 
+    font-size: 36px;
+    font: 'Helvetica'
+    font-weight: 700;
+    color: orangered;
+    background-color: lightblue;
+}
+img {
+    height: auto;
+    width:600px;
+}
+.list {
+    font: 'Helvetica';
+    font-size: 30px;
+    color: orangered;
+    background-color: lightblue;
+}
+.bullet-points {
+    font-size: 28px;
+    color:burlywood;
+}
